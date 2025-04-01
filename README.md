@@ -1,7 +1,7 @@
 # IG BORDER GEN ✨
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Pillow](https://img.shields.io/badge/Pillow-Installed-green.svg)](https://python-pillow.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-Installed-green.svg)](https://pypi.org/project/pillow/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](https://www.apache.org/licenses/)
 
 ***Did your squared, bordered feed on Instagram get destroyed by the new Instagram-imposed aspect ratio?***
@@ -29,7 +29,7 @@ Here is a simple Python script to add borders and resize images for Instagram; i
 ## Prerequisites
 
 - Python 3.x
-- [Pillow](https://python-pillow.org/) (install with `pip install Pillow`)
+- [Pillow](https://pypi.org/project/pillow/) (install with `pip install Pillow`)
 
 ---
 
